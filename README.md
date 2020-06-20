@@ -1,6 +1,7 @@
 # ClientesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
+This project consumes the API available in the repository API-Clientes (https://github.com/Lucas-Santos-A/API-Clientes).
 
 ## Development server
 
